@@ -1,0 +1,11 @@
+langchain-google-genai
+langchain-groq
+langchain
+langchain-community
+langchain-text-splitters
+dotenv
+pypdf
+langgraph
+streamlit
+langchain_huggingface
+langsmith
